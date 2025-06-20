@@ -8,8 +8,14 @@
 ## Progreso
 
 ### Foundations
-- [] name
-- []
+- [] Introduction
+- [] Prerequisites
+- [] Git Basics
+- [] HTML Foundations
+- [] CSS Foundations
+- [] Flexbox
+- [] JavaScript Basics
+- [] Conclusion
 
 ---
 
