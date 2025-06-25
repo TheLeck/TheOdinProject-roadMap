@@ -8,7 +8,7 @@
 ## Progreso
 
 ### Foundations
-- [] Introduction
+- [x] Introduction
 - [] Prerequisites
 - [] Git Basics
 - [] HTML Foundations
