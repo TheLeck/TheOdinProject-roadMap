@@ -9,13 +9,13 @@
 
 ### Foundations
 - [x] Introduction
-- [] Prerequisites
-- [] Git Basics
-- [] HTML Foundations
-- [] CSS Foundations
-- [] Flexbox
-- [] JavaScript Basics
-- [] Conclusion
+- [ ] Prerequisites
+- [ ] Git Basics
+- [ ] HTML Foundations
+- [ ] CSS Foundations
+- [ ] Flexbox
+- [ ] JavaScript Basics
+- [ ] Conclusion
 
 ---
 
