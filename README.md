@@ -9,8 +9,8 @@
 
 ### Foundations
 - [x] Introduction
-- [ ] Prerequisites
-- [ ] Git Basics
+- [x] Prerequisites
+- [x] Git Basics
 - [ ] HTML Foundations
 - [ ] CSS Foundations
 - [ ] Flexbox
